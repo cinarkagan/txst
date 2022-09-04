@@ -6,7 +6,7 @@ A simple UI library for singe-button scripts. Made because yes.
 # Getting the txst framework
 
 ```lua
-local txst = loadstring(game:HttpGet(('')))()
+local txst = loadstring(game:HttpGet(('https://raw.githubusercontent.com/cinarkagan/txst/main/txst.lua')))()
 ```
 
 
