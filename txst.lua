@@ -2,7 +2,7 @@ local txst = {}
 
 function txst:CreateWindow(titleText,ID)
 	local holder = Instance.new('ScreenGui')
-	holder.Parent = game.Players.GizmoTajz.PlayerGui
+	holder.Parent = game.CoreGui
 	local window = Instance.new('Frame')
 	window.Size = UDim2.new(0.1, 0,0.2, 0)
 	window.Position = UDim2.new(0.061, 0,0.088, 0)
